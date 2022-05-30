@@ -3,3 +3,6 @@
 
 # Ignore JSON files
 *.json
+
+# Ignore Cache files
+.cache
