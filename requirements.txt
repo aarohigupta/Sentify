@@ -1,0 +1,5 @@
+# install spotipy
+pip install spotipy
+
+# install pandas
+pip install pandas
