@@ -1,8 +1,0 @@
-# Ignore Mac system files
-.DS_store
-
-# Ignore JSON files
-*.json
-
-# Ignore Cache files
-.cache
